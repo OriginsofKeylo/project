@@ -1,0 +1,54 @@
+body{
+    margin:0px;
+    color:#fff7ed
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px; 
+   
+}
+
+
+h1{
+    text-align: center;
+    font-family:Bahnschrift Light;
+    
+    color:black;
+  
+    
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: #000000;
+    padding:0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color:white;
+    text-decoration: none;
+    padding: 20px;
+    display:block;
+    text-align: center;
+
+}
+.navbar a:hover{
+    background-color: rgb(37, 37, 36) ;
+}
+.navbar li{
+    float:left
+}
+body{
+    background-color: #fffbf6;
+}
+h3{
+    color:black
+}
+.nh{
+    text-align: left;
+    font-family:Bahnschrift Light;
+    
+    color:black;
+    text-decoration:double;
+  
+}
